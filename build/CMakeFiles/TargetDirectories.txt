@@ -1,0 +1,3 @@
+/Users/oscarqr/Library/CloudStorage/OneDrive-Centred'EstudisMonlau/M7 - Desarollo de Interfaces/UF2/pac03/Projecte/build/CMakeFiles/HolaMon.dir
+/Users/oscarqr/Library/CloudStorage/OneDrive-Centred'EstudisMonlau/M7 - Desarollo de Interfaces/UF2/pac03/Projecte/build/CMakeFiles/edit_cache.dir
+/Users/oscarqr/Library/CloudStorage/OneDrive-Centred'EstudisMonlau/M7 - Desarollo de Interfaces/UF2/pac03/Projecte/build/CMakeFiles/rebuild_cache.dir
